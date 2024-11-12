@@ -1,6 +1,3 @@
-import logging
-from itertools import compress
-from scipy.spatial.distance import pdist
 import geopandas as gpd
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg 
