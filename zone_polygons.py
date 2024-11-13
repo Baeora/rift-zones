@@ -1,4 +1,4 @@
-from shapely.geometry.polygon import Polygon, Point
+from shapely.geometry.polygon import Polygon
 
 rift_zone_polygons = [
     # Blue Side Raptor Brush
